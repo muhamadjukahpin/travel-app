@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "muhamadjukahpin@gmail.com",
+      "image_name": "51b9191b-9533-4d9d-bb8e-3280ad5ebd77.jpg",
+      "image_path": "file:///storage/emulated/0/Android/data/com.travel/files/Pictures/51b9191b-9533-4d9d-bb8e-3280ad5ebd77.jpg",
+      "name": "Muhamad Jukahpin",
+      "password": 123456
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Mountain",
+      "image_name": "mountain.png"
+    },
+    {
+      "id": 2,
+      "name": "Temple",
+      "image_name": "shrine.png"
+    },
+    {
+      "id": 3,
+      "name": "Lake",
+      "image_name": "water.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Bozeman Reservoir",
+      "rating": "5.0",
+      "location": "Montana, USA",
+      "image_name": "reservoir.jpg",
+      "save": true,
+      "category_id": 3
+    },
+    {
+      "id": 2,
+      "name": "Rajasthan Lake",
+      "rating": "5.0",
+      "location": "Rajasthan, India",
+      "image_name": "reservoir2.jpg",
+      "save": false,
+      "category_id": 3
+    },
+    {
+      "id": 3,
+      "name": "Tian Tan Buddha",
+      "rating": "5.0",
+      "location": "Hong Kong, China",
+      "image_name": "temple2.jpg",
+      "save": false,
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Sierra Nevada",
+      "rating": "5.0",
+      "location": "Nevada, USA",
+      "image_name": "mount.jpg",
+      "save": false,
+      "category_id": 1
+    },
+    {
+      "id": 5,
+      "name": "Osaka Castle",
+      "rating": "5.0",
+      "location": "Osaka, Japan",
+      "image_name": "temple.jpg",
+      "save": true,
+      "category_id": 2
+    }
+  ]
+}

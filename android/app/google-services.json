@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350055523195",
+    "project_id": "react-travel-app-1",
+    "storage_bucket": "react-travel-app-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350055523195:android:141a5c99984fadf57c13de",
+        "android_client_info": {
+          "package_name": "com.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350055523195-ti9vfnnj354dor3etsud62fp9h31t0ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3rFoOPs_KHX1kSOQ7SaUTfsXwsEq_qfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350055523195-ti9vfnnj354dor3etsud62fp9h31t0ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

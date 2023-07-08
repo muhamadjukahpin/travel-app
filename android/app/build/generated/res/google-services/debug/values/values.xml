@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">350055523195-ti9vfnnj354dor3etsud62fp9h31t0ft.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">350055523195</string>
+    <string name="google_api_key" translatable="false">AIzaSyC3rFoOPs_KHX1kSOQ7SaUTfsXwsEq_qfs</string>
+    <string name="google_app_id" translatable="false">1:350055523195:android:141a5c99984fadf57c13de</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC3rFoOPs_KHX1kSOQ7SaUTfsXwsEq_qfs</string>
+    <string name="google_storage_bucket" translatable="false">react-travel-app-1.appspot.com</string>
+    <string name="project_id" translatable="false">react-travel-app-1</string>
+</resources>
